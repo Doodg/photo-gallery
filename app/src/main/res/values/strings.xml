@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PayToGallery</string>
+    <string name="yes">Yes</string>
+    <string name="close">Close</string>
+    <string name="dialog_message">You want to see more details</string>
+    <string name="dialog_title">Photo in details</string>
+    <string name="likes">Likes:%s</string>
+    <string name="tags">Tags:%s</string>
+    <string name="download">Downloads:%s</string>
+    <string name="comments">Comments:%s</string>
+    <string name="tap_to_refresh">No photos to show</string>
+    <string name="error_occurred">Error occurred ,try again later</string>
+    <string name="search_hint">Search for photo</string>
+    <string name="photo_details">Photo Details</string>
+</resources>
